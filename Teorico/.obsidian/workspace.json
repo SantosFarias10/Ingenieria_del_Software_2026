@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a8d4212bdd2d3e86",
@@ -190,6 +191,7 @@
   },
   "active": "4669d926b446fa86",
   "lastOpenFiles": [
+    "Clases/1 - 11 de Agosto.md",
     "1 - Introducción.md"
   ]
 }
